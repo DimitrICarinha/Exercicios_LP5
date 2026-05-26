@@ -2,7 +2,6 @@
 
 #include <stdio.h>
 
-// Protótipo da função
 int ehPrimo(int);
 
 int main() {
