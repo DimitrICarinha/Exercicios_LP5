@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Protótipos das funções
 int ehPrimo(int n);
 int np(int n1, int n2);
 
